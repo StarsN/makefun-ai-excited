@@ -1,4 +1,4 @@
-// ai-excited-01 entry: "The Instant the Seed Became a Forest".
+// ai-excited-01 entry: "The Storm That Outgrew Its Marble".
 //
 // The artwork lives beside this file as entry.png (JPEG bytes under a .png
 // name, which the gate allows: it tells PNG from JPEG by the first bytes).
